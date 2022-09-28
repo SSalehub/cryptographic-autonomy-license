@@ -9,6 +9,7 @@
 *“Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception,” or*
 
 *“SPDX-License-Identifier: CAL-1.0 with Combined-Work-Exception.”*
+“This project is tested with BrowserStack.”
 
 ------
 
